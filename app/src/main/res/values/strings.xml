@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Edit me please!</string>
+    <string name="button_send">Send!</string>
+    <string name="audio_toggle">Audio</string>
+
+    <string name="doorbell_notification_title_template">Doorbell: %1$s</string>
+
+    <string name="doorbell_notification_placeholder_text_template">Someone is ringing the doorbell
+    </string>
+
+    <string name="action_talk">Talk</string>
+    <string name="action_open_door">Open door</string>
+</resources>
